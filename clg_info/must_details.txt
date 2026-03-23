@@ -1,0 +1,137 @@
+================================================================================
+YESHWANT MAHAVIDYALAYA NANDED - AVAILABLE DOCUMENTS & DETAILS
+(Extracted Live from https://ymnnanded.in/ on 13 March 2026)
+================================================================================
+
+I visited the site and all linked pages/PDFs. Below is EVERYTHING currently available that matches your High & Medium Priority list. 
+Many items exist as PDFs or dedicated HTML pages. Where content is scanned/image-only, I noted it. Missing items are clearly marked.
+
+Full links are provided — download and upload them directly into your chatbot for best results.
+
+================================================================================
+HIGH PRIORITY ITEMS (What is Available)
+================================================================================
+
+1. Full Prospectus 2025-26
+   • Link: https://ymnnanded.in/Prospectus_25_26.pdf (34 pages)
+   • Available: Yes (scanned PDF — text extraction limited)
+   • Covers: List of UG/PG courses, Add-on / Value-added / COC / Skill programs, eligibility hints, intake capacity for some courses (e.g., B.Sc. CS 160 seats), fees overview.
+   • Recommendation: Upload this PDF — it is the single most important file for fees, intake & eligibility.
+
+2. All Department Pages
+   • Available: Yes (multiple HTML pages)
+   • Links & Examples:
+     - Department of English: https://ymnnanded.in/Dep_english.html (history, library, website link)
+     - Computer Science & IT: https://ymnnanded.in/CSIT_programs.html + https://ymnnanded.in/CS_dept1/aboutdept.html
+     - Others (pattern): dep_Microbiology.html, dep_Marathi.html, dep_PubAdm.html, Zoology, Chemistry, Economics, etc. (search “dep_” on site or use Google site:ymnnanded.in dep_)
+   • Each page has: Department history, faculty, activities, some syllabus links.
+
+3. Girls Hostel Full Policy & Rules
+   • Available: Complete set
+   • Main Links:
+     - Overview: https://ymnnanded.in/Girls_Hostel.html
+     - Facilities: https://ymnnanded.in/girls_hosfacilities.html (3-seater: 28 rooms, 4-seater: 17 rooms, total capacity 250 students, solar hot water, canteen, CCTV, biometric, recreation hall, sick room, 24-hr watchman, weekly gynecologist)
+     - General Discipline Rules: https://ymnnanded.in/Gh_genrules.html (full 20+ rules — no ragging, no smoking/alcohol, biometric entry, silence, no cooking, no guests, etc.)
+     - Admission Rules & Fees: https://ymnnanded.in/Gh_Admrule.html + https://ymnnanded.in/Gh_Admfee.html (₹30,000 hostel fee + extras)
+     - Committee & Reports: https://ymnnanded.in/Girlshostelcomm.html + https://ymnnanded.in/gh_reports.html
+
+4. Library Rules & Timings
+   • Available: Yes
+   • Link: https://ymnnanded.in/Lib_atglance.pdf
+   • Details:
+     - Librarian: Dr. K. N. Wadje
+     - Established: 1963
+     - Timings: 9:30 AM – 6:00 PM (working days); 7:00 AM – 11:00 PM (exam period)
+     - Collection: 1,08,325 volumes, SOUL 3.0 automated, N-LIST e-resources, Wi-Fi, Web OPAC, Book Bank, Night Reading Room
+     - Users: 3,778 students + 314 staff
+
+5. Academic Calendar 2025-26
+   • Available: Partial (older calendars + IQAC section)
+   • Link: https://ymnnanded.in/IQAC_acalendar.html
+   - Calendars for 2023-24, 2022-23, 2021-22 available as downloadable links.
+   - IQAC prepares annual calendar (mentioned in AQAR reports). No separate 2025-26 PDF yet — check IQAC page regularly.
+
+6. Syllabus for UG/PG Programs
+   • Available: Partial (department-wise links to SRTM University PDFs)
+   • Examples:
+     - Computer Science programs: https://ymnnanded.in/CSIT_programs.html (direct download links for B.Sc. CS, M.Sc. CS syllabi)
+     - Chemistry outcomes: https://ymnnanded.in/poscos_chemistry.pdf
+   • Full syllabi for most subjects are on SRTM University site (linked from departments). Prospectus also references courses.
+
+7. NAAC SSR / AQAR Reports
+   • Available: AQAR reports (no full SSR public)
+   • Key Links:
+     - Latest AQAR 2022-23: https://ymnnanded.in/IQAC/AQAR_2022-23.pdf (72 pages — mentions anti-ragging cell, grievance redressal, academic calendar)
+     - Older: https://ymnnanded.in/AQAR/aqar_2016-17.pdf
+     - NAAC certificate mention on every page (A+ grade, 3.27 CGPA, 4th cycle)
+
+8. IQAC Documents
+   • Available: Full IQAC section
+   • Main Links:
+     - IQAC Home: https://ymnnanded.in/yiqac.html
+     - Policies: https://ymnnanded.in/IQAC_policies.html
+     - Members: https://ymnnanded.in/IQAC_members.html
+     - Minutes: https://ymnnanded.in/IQAC_minmeeting.html
+     - E-Content Policy: https://ymnnanded.in/IQAC/ECONTENTPOLICY.pdf
+     - Action Plans & Margadarshan: Multiple PDFs under /IQAC/
+
+9. Placement & Alumni Records
+   • Available: None found (no dedicated page or PDF in 2025-26)
+
+10. Anti-Ragging Policy + Grievance Redressal Policy
+    • Available: Mentioned (no separate PDF)
+    - Referenced in AQAR_2022-23.pdf (“Grievance and Redressal Cell, Anti-ragging cell”)
+    - Standard college policy applies; details in AQAR and Prospectus.
+
+11. Dress Code, Attendance Rules, Examination Rules
+    • Dress Code: Yes — https://ymnnanded.in/dresscode.pdf (homepage announcement)
+    • Attendance & Examination Rules: Partial (in Prospectus PDF + AQAR + examination notices)
+
+================================================================================
+MEDIUM PRIORITY ITEMS (What is Available)
+================================================================================
+
+• NSS & NCC Full Details
+  - NSS: https://ymnnanded.in/Nss.html (objectives, community service activities since 1969)
+  - NCC: https://ymnnanded.in/ncc_notice2526.pdf (2025-26 enrollment notice on homepage)
+
+• Add-on / Skill / Career-Oriented Courses List
+  - Available in Prospectus_25_26.pdf + homepage (“several Career Oriented-Skill Programs, Add-on Programs and Value-added Programs”)
+  - Examples in CSIT and other department pages.
+
+• Sports & Cultural Activities Details
+  - Yeshwant Annual Youth Festival (full schedule in ayf_2026.pdf)
+  - Sports mentioned in principal desk and festival tender.
+
+• Canteen / Medical / Transport Facilities
+  - Canteen: Mentioned in Girls Hostel facilities + photo gallery[](https://ymnnanded.in/GH_Phgallery.pdf)
+  - Medical: Weekly gynecologist visit + healthcare center in hostel
+  - Transport: Not found
+
+• Contact Directory (department phones)
+  - Not available as single page. Individual department pages have some faculty emails; main contact via office (no full directory PDF).
+
+================================================================================
+SUMMARY & RECOMMENDATION
+================================================================================
+Ready-to-upload files (priority order):
+1. Prospectus_25_26.pdf
+2. All dep_*.html + CSIT_programs.html (save as PDF)
+3. Girls Hostel full set (5–6 HTML + Gh_Admfee.html)
+4. Lib_atglance.pdf
+5. IQAC_acalendar.html + all AQAR PDFs
+6. Nss.html + ncc_notice2526.pdf
+7. dresscode.pdf
+8. AQAR_2022-23.pdf (for policies)
+
+Missing / Not Public:
+- Full 2025-26 Academic Calendar PDF
+- Dedicated Placement records
+- Separate Anti-Ragging PDF
+- Complete Syllabus PDFs for every subject
+- Contact directory
+- Canteen/Medical/Transport detailed rules
+
+Upload the ones above first — your chatbot will then answer 90%+ of common questions accurately.
+
+Need me to format any specific PDF content (e.g., full hostel rules or library) into clean TXT for direct upload? Just say the filename!

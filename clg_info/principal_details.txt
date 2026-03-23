@@ -1,0 +1,123 @@
+================================================================================
+YESHWANT MAHAVIDYALAYA NANDED - PRINCIPAL INFORMATION
+Formatted & Structured Data File
+Filename: principal_full_profile.txt
+Date: March 2026
+================================================================================
+
+This file contains:
+- Full verbatim Principal's Desk message
+- Complete structured Bio-data (key-value + bullet lists for easy parsing)
+- All details from both provided documents are 100% covered
+- Clean sections for direct copy-paste or AI/database import
+
+================================================================================
+SECTION 1: PRINCIPAL'S DESK (Full Message - Verbatim)
+================================================================================
+
+From Principal Desk
+
+Yeshwant Mahavidyalaya is reputed for providing quality liberal education in the Humanities, Commerce and Management and Sciences. The college has as its backbone an excellent infrastructure; the smart classrooms for appropriate teaching-learning using ICT, state-of-the-art laboratories, a recording studio and the other general facilities which are amongst the best in the region. Student aid Forum (SAF), Earn and Learn Scheme, Student Adoption by teachers are some of the student centered programs run on the campus. The faculty is distinguished and the support staff is dedicated.
+
+The College will have to work hard to succeed in fostering new learning & teaching techniques and world class research then only it will be in a position to nurture the talent of the students and staff. The teaching-learning programs are marked with personal mentoring; students are encouraged to work in collaborative teams and learn from peers. The emphasis is on innovative teaching strategies using Learning Management Systems (LMS) that provide experiential learning through project work, field work and case studies in this CoViD-19 situation as well. It has transformed the centuries-old Chalk-Board teaching model to technology-driven online/live-streaming classes. E-learning and online courses emerged as a learning solution for the students across all the universities and colleges in India. However, in post COVID era blended learning (a combination of classroom and online modes) will be the norm. Institutions and teachers will blend the two judiciously according to the context and the content. The college has already taken an initiative in this regard.
+
+The college has several Career Oriented- Skill Programs, Add-on Programs and Value-added Programs to cater to the diverse interests of the students. The students can pursue these in conjunction with their regular course of studies. We impart formal education with a difference even as we work within the constraints of a traditional university system to groom students for curricular, co-curricular and extra-curricular excellence.
+
+The College believes that each student is special and has the potential to excel in many different ways. The touchstone of all our programs is an active engagement of all the stakeholders that nurtures individual talent. Through carefully crafted interaction and activities within and outside the classroom, we provide experiences that help the student discover innate capabilities, set life-long goals and proactively work towards their fulfillment. The college looks forward to its development into a young and energetic campus hosting variegated courses to carry forward its vision of providing holistic education to the rising number of students aspiring for higher education in this region. The Annual Social Meet of the Students at the Yeshwant Campus is named as the Yeshwant Youth Festival which is a combination of research, experimentation, and cultural which is unique in itself. The college is unique in organizing various National and State level curricular and co-curricular meets incorporating the active participation of all its stake holders. YMLIT Fest, YMIT Fest and YMZEP are student related Fests organized for the students by the students.
+
+The dedication and the team work of its stakeholders have won many laurels to the institution. The college is the recipient of the Best College Award, the Best Teacher Award, the Best NSS Officer Award, and the Best Principal Award from the parent University. The college is the proud beneficiary of Two National Awards - Indira Gandhi NSS Best College Award as well as Indira Gandhi NSS Best Program Officer Award. The College Magazine is awarded the first prize more than a couple of times. I take this opportunity to congratulate my colleagues and students for all the ecstatic achievements.
+
+The college is identified as College with Potential for Excellence (CPE); accredited at “A” grade by NAAC Bangalore in 2003; re-accredited at “A” grade in 2010; Certified by ISO: 9001:2008. The college is happy to declare that it has been accredited “A” grade by NAAC, Bangalore in November 2015 during the re-accreditation (III cycle) and has achieved a hat-trick.
+
+There will be significant challenges to face in this CoViD-19 pandemic situation but if college remains committed to the vision then it is quite possible that we may achieve significant part of it if not in-toto. I believe our College will come into limelight and will make its academic position on the global academic map with great and firm positive impact. Before concluding, I must add one phrase “If you want to shine like the sun, first burn like the sun.”
+
+I welcome you all to this leading institution (Both in Offline and Online mode) and hope that you would have a wonderful experience on the campus!!!
+
+Dr. Ganeshchandra Shinde
+Principal
+
+================================================================================
+SECTION 2: BRIEF BIO-DATA (Structured Key-Value Format)
+================================================================================
+
+Name                          : Dr. Shinde Ganeshchandra Narharrao
+Qualifications                : M.Sc., M.Phil., Ph.D.
+Current Position              : Principal (Professor Grade), Yeshwant Mahavidyalaya, Nanded-431603
+Email                         : shindegn@yahoo.co.in
+
+Previous High-Level Role      : Pro-Vice Chancellor, S.R.T.M. University, Nanded
+                              : (October 20, 2015 to August 31, 2018)
+Vice-Chancellor Charge        : Held charge 9 times
+
+════════════════════════════════════════════════════════════════════════════════
+ACHIEVEMENTS / AWARDS
+════════════════════════════════════════════════════════════════════════════════
+• Ideal State Teacher Award, Govt. of Maharashtra, Mumbai (2008-2009)
+• Best Principal Award, S.R.T.M. University, Nanded (2009-2010)
+• Benzonji Jalnawala Awards – B.Sc. Merit Ist, Marathwada University, Aurangabad (1985)
+• Merit IV – M.Sc., Marathwada University, Aurangabad (1987)
+• Best College Award, S.R.T.M. University, Nanded (IGC: 2015-16, YMN: 2021-22)
+• District Green Champion Award, M.G.N.C.R.E, Department of HE, Ministry of Education, Govt. of India (2021)
+• Marquee’s World - Who’s-Who-2004, USA
+• Chancellor interaction (Hon’ Governor of Maharashtra) for First five Shortlisted Candidates for Vice-Chancellor post – 03 Times
+• Shortlisted for Vice-Chancellor post in different Universities – 12 Times
+• Chair of the Session – Four International Conferences abroad
+
+════════════════════════════════════════════════════════════════════════════════
+INTERNATIONAL EXPERIENCE (Abroad Visits)
+════════════════════════════════════════════════════════════════════════════════
+USA, Thailand, Portugal, Germany, Switzerland, Italy, Vatican City, Monaco, France, China, Maldives, Sri Lanka, United Kingdom, Scotland, New Zealand, Hong Kong, Singapore
+
+════════════════════════════════════════════════════════════════════════════════
+EXPERIENCE SUMMARY
+════════════════════════════════════════════════════════════════════════════════
+• Pro-Vice Chancellor Experience     : 2 Years 10 Months
+• Teaching Experience               : 36 Years
+• Administrative Experience as Principal : 18 Years
+• Recognized Post Graduate Teacher  : Electronics & Computer Science
+• Recognized Research Guide         : Electronics, Computer Science & Physics
+
+════════════════════════════════════════════════════════════════════════════════
+LEADERSHIP ROLES AT S.R.T.M. UNIVERSITY, NANDED
+════════════════════════════════════════════════════════════════════════════════
+• Pro-Vice Chancellor (2015-2018)
+• Chairman of Board of Dean (2015-2018)
+• Dean & Chairman of Faculty of Science (2012-2015)
+• Member: Management Council, Senate, Selection Committee I & II, Promotion Committee
+• Research Recognition Committee in Electronics (2007-2018)
+• Member: Academic Council, Senate, RRC, BUTR, BOE (2012-2018)
+• Member: BOS in Electronics, BOS in Computer, Faculty of Science
+• Chairman, Grievances Committee (2007-2011)
+
+════════════════════════════════════════════════════════════════════════════════
+ACADEMIC BODY MEMBERSHIPS (Other Universities & Autonomous Colleges)
+════════════════════════════════════════════════════════════════════════════════
+• BOS in Electronics, Dr. B.A. Marathwada University, Aurangabad (2005-2010)
+• Research Recognition Committee in Electronics, Shivaji University, Kolhapur (2011-2016)
+• Governing Body, Rajarshi Shahu College (Autonomous), Latur (2013-18, 2019-21, 2021-24)
+• BOS in Electronics, Rajarshi Shahu College (Autonomous), Latur (2013-18, 2019-21, 2021-24)
+• Chairman, Academic & Administrative Audit, Shivaji University, Kolhapur (20-21 Sep 2019)
+• Chairman, Academic & Administrative Audit, Dr. B.A. Marathwada University, Aurangabad (2023)
+
+════════════════════════════════════════════════════════════════════════════════
+RESEARCH & PUBLICATION HIGHLIGHTS
+════════════════════════════════════════════════════════════════════════════════
+• Ph.D. Candidates Awarded          : 22 (including 4 Foreign Students)
+• Patents Granted                   : 02
+• Research Projects Completed       : 04
+• Papers in International Journals  : 101
+• Papers in International Conferences : 37
+• Papers in National Conferences    : 29
+• Books Published                   : 02
+• Chapters in International Books   : 12
+• Citations                         : 700
+• H-Index                           : 15
+• i10-Index                         : 19
+• G-Index                           : 10
+• Research Gate Score (RG)          : 15.54
+
+================================================================================
+END OF FILE
+================================================================================
+Copy-paste ready. All details from both original documents are preserved exactly. 
+AI-friendly structure (clear headings, bullet lists, key-value pairs) for easy extraction, searching, or database import.

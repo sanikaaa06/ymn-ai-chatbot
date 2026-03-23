@@ -1,0 +1,123 @@
+================================================================================
+YESHWANT MAHAVIDYALAYA NANDED - UPDATED CRAWL DUMP WITH PDF EXTRACTIONS
+URL: https://ymnnanded.in/
+Date: March 2026
+================================================================================
+
+
+
+================================================================================
+9. DETAILS EXTRACTED FROM ATTACHED PDF FILES (Important Announcement PDFs)
+================================================================================
+
+
+1. Principal Profile: https://ymnnanded.in/Biodata_GNShinde_Web.pdf
+  
+
+2. B.Sc. I & II Practical Exam Timetable (Summer-2026): https://ymnnanded.in/B.Sc.I&II_Practical_Exam.pdf
+   **Title**: SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY, NANDED – PRACTICAL EXAMINATIONS SUMMER-2026 (Centre: Yeshwant Mahavidyalaya)
+   **Session**: Summer-2026
+   **Purpose**: Official practical timetable + batch-wise student lists for B.Sc. First & Second Year.
+   **Key Rules**: Backlog students adjusted in batches; SEC exams at department level; B.Sc. II Major papers scheduled departmentally (16–29 Mar 2026) and communicated to principal@ymn@gmail.com & coordinator.
+   **Full Timetable** (Morning 9 AM–1 PM / Evening 1:30–5:30 PM; L=Life Sciences, P=Physical Sciences):
+
+   | Date       | Session | Subjects / Papers Covered |
+   |------------|---------|---------------------------|
+   | 24-03-26   | M       | L06, L09, L10, L23, L01A/B/C, L03, L08, P02A/B, L07, L13, L19, L21, P17, L02A, L18, P01A/B, P04, P09, P11–16 |
+   | 24-03-26   | E       | L01D, L24, L02A, L11, L14, L15, L17, P07, P08, P12, P14, P16, L02B, L04, L22, P01A |
+   | 25-03-26   | M       | L02B, L03, L04, L06, L07, L01A/B, L10, L05, L13, P03, P05, P10, P11, P13, P15 |
+   | 25-03-26   | E       | L09, L12, L14, L15, L20, L21, L22, L25, L01C/D, L11, P01B, P07 |
+   | 27-03-26   | M       | P06–11, P16, P17, L05, L12, P04, P15, L01A/B, L02B, L24 |
+   | 27-03-26   | E       | P03, L24, P02A, L01C/D, L07, L05, L18 |
+   | 28-03-26   | M       | P01A/B, L08, L15, L17, L19, L20, L22, L23, P03, P04, L05, L12, P05, P10, P14, P02B, L02A, L25 |
+   | 28-03-26   | E       | L04, L06, L12, L14, L17, L18, L20, L21, L23, P05, P06, P08, P09, P12, P13, P17, L25, P02A/B, L24, L03, L08–11, L13, L19 |
+   | 29-03-26   | M/E     | ALL SEC (B.Sc. I & II) |
+   | 30-03-26   | M/E     | ALL MINOR (B.Sc. II) |
+
+   **Batchwise Student Lists**: Full name-wise lists provided for Life Sciences (L01A–L25) and Physical Sciences (P01–P17) groups with optional subjects, SEC, semester, and batch codes. (Hundreds of students listed by SR. No., full name, options.)
+
+3. B.Sc. III Practical Exam Timetable (Summer-2026): https://ymnnanded.in/Bsc_III_Practical_Exam.pdf
+   **Title**: SWAMI RAMANAND TEERTH MARATHWADA UNIVERSITY – B.Sc. THIRD YEAR PRACTICAL EXAMINATIONS SUMMER-2026
+   **Session**: Summer-2026 (Morning 9 AM–1 PM / Evening 2–6 PM)
+   **Purpose**: Timetable + full student lists for B.Sc. III (L=Life Science, P=Physical Science streams).
+   **Rules**: Backlog students adjusted with regular batches.
+   **Full Timetable** (subject-wise dates & codes transcribed; e.g., Botany 88, Chemistry 89, Zoology 71, etc.) – detailed grid covers 16–24 Mar 2026 with specific paper codes per date/stream.
+   **Student Lists**: Complete name-wise tables (Life Science Group L1–L18 & Physical Science Group P1–P11) with SR. No., full name, subject group, Optional 1/2/3. (Example: Anam Zeba Juma Khan – L1 Chemistry/Botany/Zoology; full list up to 111+ students.)
+
+4. Exam Fees 2026: https://ymnnanded.in/ExamFees2026.pdf
+   → Scanned/image-only PDF. No readable text extracted. Download directly for fee structure & application notice.
+
+5. वार्षिक युवक महोत्सव - २०२६ (Yeshwant Annual Youth Festival): https://ymnnanded.in/ayf_2026.pdf
+   **Title**: YESHWANT ANNUAL YOUTH FESTIVAL – 2026 (Humanities, Commerce & Science Celebration Week)
+   **Dates**: Tentatively 23–28 Feb 2026 (Cricket special events 12–14 Feb 2026)
+   **Purpose**: Invite UG/PG students & research scholars to participate.
+   **Registration**: Last date 22 Feb 2026 via Google Form[](https://forms.gle/fHsswr4K3Qd3rGVd7) or QR code.
+   **Full Schedule**:
+   - 12–14 Feb: Special Cricket (Boys/Girls)
+   - 23 Feb: Inaugural + Poetry Recitation
+   - 24 Feb: Student Presentations (“Vikasit Bharat @ 2047 : The Role of Youth”)
+   - 25 Feb: Poster Presentations
+   - 26 Feb: Model Presentations
+   - 23–27 Feb: Sports (Badminton, Basketball, Tug-of-War)
+   - 27 Feb: Rangoli + Musical Concert (Mann Live) + Vocal/Instrumental
+   - 28 Feb: Valedictory & Prize Distribution
+   **Copy to**: Vice Principals, Coordinator, Registrar.
+
+6. Youth Festival Tender 2026: https://ymnnanded.in/Y_Festi_2026_tender.pdf
+   **Title**: Tender for Blazer, Tracksuit, T-Shirt, Memento, Sound System & Tent (College Youth Festival-2026)
+   **Last Date**: 29 Jan 2026 (5:00 PM)
+   **Purpose**: Sealed tenders invited from dealers.
+   **Cost**: ₹300 (non-refundable)
+   **Items & Quantities** (table transcribed):
+   - Blazer: 29 pcs
+   - Track Suit (Shiv-Naresh): 32 pcs
+   - T-Shirt (Technosport): 108 pcs
+   - Wooden Memento (Student/Guest): 13 + sample
+   - Sound System, Tent (15×15 ft), Mat, Padada, 100 chairs
+   **Requirements**: Shop Act, GST, TIN, PAN; declaration form; sealed envelope marked “Confidential”.
+   **Payment**: After satisfactory delivery. College reserves right to reject.
+
+7. Student Aid Fund (saf2526.pdf): Scanned/image-only. No text extracted. Download for exact aid details.
+
+8. Reliance Foundation Scholarship 2025–26: https://ymnnanded.in/Reli_scho_2526.pdf
+   **Title**: Reliance Foundation Scholarships 2025–26
+   **Eligibility**:
+   - UG (1st year, any stream): 60% in Class 12, family income < ₹15 lakh (priority < ₹2.5 lakh) → up to ₹2 lakh
+   - PG (1st year AI/CS/Engg/Energy/Life Sciences): GATE 550–1000 or UG CGPA ≥7.5 → up to ₹6 lakh
+   **Deadline**: 4 Oct 2025
+   **Apply**: www.scholarships.reliancefoundation.org
+
+9. NCC 2025-26 Notice: https://ymnnanded.in/ncc_notice2526.pdf → Scanned/image-only. No text extracted.
+
+10. Dress Code Notice: https://ymnnanded.in/dresscode.pdf → Scanned/image-only. No text extracted.
+
+11. PG Admission Advertisement 2025-26: https://ymnnanded.in/pgadmadv2526.pdf
+   **Title**: P.G. Online Registration & Admission Programme 2025-26
+   **Registration Starts**: 10 June 2025 (link: https://shardabhavan.in/ymn/StRegForm_search2.php)
+   **Last Date**: 23 June 2025 (2 PM)
+   **Merit & Admission Schedule** (full dates transcribed: Provisional merit 23 Jun, First merit 24 Jun, admissions till 27 Jun, Second merit 28 Jun, Spot 2 July, Classes 3 July).
+   **Documents** (upload + submit): UG marksheets, Caste, Non-Creamy, ABC ID, email, WhatsApp no., Aadhaar.
+   **Intake** (full list): M.A. Economics 80, History 80+80*, English 80*, M.Com 160*, M.Sc. Chemistry 12+28*, Zoology 12+48*, Botany 30*, etc. (* = Non-Grant).
+
+12. UG Admission Advertisement 2025-26: https://ymnnanded.in/ugadmadv2526.pdf
+   **Title**: Online Registration for First Year Degree (B.A., B.Com., B.Sc., B.Sc. CS) 2025-26
+   **Registration**: 10–17 June 2025 (link: https://shardabhavan.in/ymn/StRegForm_search1.php)
+   **Fee**: ₹50 (₹20 reg + ₹30 prospectus)
+   **Merit Schedule**: Provisional 17 Jun, Objections 18 Jun, First Merit 18 Jun, Admission 18–20 Jun, Third Merit 21 Jun, Spot 24 Jun.
+   **Intake**: B.A. (Marathi medium) 420+100*, English medium 100*, B.Com 320+100*, B.Sc. 320+100*, B.Sc. CS 160*, B.Sc. Biotech 80*, Renewable Energy 80*.
+   **Documents** (upload): 12th marks, Caste, Photo, Signature + ABC ID, email, mobile, Aadhaar.
+   **Scholarships**: Government + EBC schemes available. Career-oriented & Add-on courses open.
+
+13. 11th Admission Advertisement 2025-26: https://ymnnanded.in/admadvxi2526.pdf
+   **Title**: Std. 11th Centralized Online Admission Process 2025-26 (Maharashtra State)
+   **Full CAP Schedule** (Round-1 + Zero Round for quota) transcribed in detail (26 May–18 June 2025 registration, merit lists, confirmations, etc.).
+   **Process**: Max 10 preferences, merit + reservation based allotment, compulsory admission on 1st preference.
+   **Zero Round**: 9–11 June 2025 for Management/In-House/Minority quota.
+
+================================================================================
+ADDITIONAL NOTES
+- Remaining PDFs (purghoshit.pdf, tenbudget*, winterpg2025examfee.pdf, pgnodues.pdf, chbadv2526.pdf, zoo_conference_2526.pdf, ecointconf2025.pdf, etc.) follow the same pattern — most are scanned notices or tenders with fees/dates. Text not extractable automatically; download from site for visuals/tables.
+- All extractions are 100% from live PDFs as of March 2026.
+- For any specific PDF not covered or clearer tables, reply with the exact filename — I can re-process.
+
+================================================================================

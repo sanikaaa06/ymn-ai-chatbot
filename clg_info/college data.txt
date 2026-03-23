@@ -1,0 +1,166 @@
+Knowledge Base: YMN AI Chatbot
+1. College Overview
+
+College Name: Yeshwant Mahavidyalaya, Nanded 
+
+
+Departments: Science, Arts, and Commerce 
+
+2. Academic Programs & Intake Capacity
+Undergraduate (UG) Courses
+B.Com 
+
+B.Sc. 
+
+B.Sc. Biotechnology 
+
+B.Sc. Renewable Energy 
+
+B.Sc. Computer Science 
+
+Postgraduate (PG) Courses
+Faculty of Arts:
+
+M.A. Economics: Intake 80 
+
+M.A. English: Intake 80 
+
+M.A. History: Intake 160 
+
+M.A. Sociology: Intake 80 
+
+Faculty of Commerce:
+
+M.Com: Intake 160 
+
+Faculty of Science:
+
+M.Sc. Biotechnology: Intake 30 
+
+M.Sc. Botany: Intake 30 
+
+M.Sc. Chemistry: Intake 40 
+
+M.Sc. Computer Management: Intake 30 
+
+M.Sc. Computer Science: Intake 30 
+
+M.Sc. Dairy Science: Intake 30 
+
+M.Sc. Electronics: Intake 30 
+
+M.Sc. Environmental Science: Intake 30 
+
+M.Sc. Information Technology: Intake 30 
+
+M.Sc. Microbiology: Intake 30 
+
+M.Sc. Zoology: Intake 60 
+
+3. Computer Science Department
+Faculty Details
+Dr. S.G. Jadhav (Asst. Prof & Head) 
+
+Dr. P.B. Tamsekar (Asst. Prof) 
+
+Dr. P.B. Pathak (Asst. Prof) 
+
+Mr. N.A. Naik (Asst. Prof) 
+
+Mrs. S.M. Shinde (Asst. Prof) 
+
+Dr. S.A. Bhusare (Asst. Prof) 
+
+Mr. G.B. Chounste (Asst. Prof) 
+
+Miss A.S. Khan (Asst. Prof) 
+
+Course Durations & Intake
+B.Sc. / B.A. (Optional Computer Science): 3 Years 
+
+B.Sc. Computer Science (Integrated): 3 Years, Intake 160 
+
+M.Sc. Computer Science: 2 Years, Intake 30 
+
+M.Sc. Information Technology: 2 Years, Intake 30 
+
+4. Academic Schedule: B.Sc. Computer Science (Third Year)
+
+Academic Year: 2025-2026 
+
+
+Semester: VI Semester 
+
+
+Hall No: 26 
+
+Subject Allocation
+BCS-601: Mobile Application Development — Miss A.S. Khan (ASK) 
+
+BCS-602: Fundamentals of Image Processing — Mr. G.B. Chounste (GBC) 
+
+
+BCS-603: Project Development Activity 
+
+
+BCS-604: Software Process Management — Mr. Sushil S. Mahendrakar (SSM) 
+
+BCS-605: Computer Networking Essentials — Dr. P.B. Pathak (PBP) 
+
+BCS-606: Image Processing Practical — Mr. G.B. Chounste (GBC) 
+
+
+BCS-607: Mobile Application Development Prac. 
+
+5. Course Syllabi
+Subject: Data Science (Code: BCS-503)
+Program: B.Sc. Computer Science (Third Year), VI Semester 
+
+
+Objectives: Learn fundamental concepts/operations, work on algorithms, and explore current applications.
+
+
+Outcomes: Review fundamentals, evaluate techniques for analysis, develop algorithms, and evaluate tools.
+
+Units:
+
+Unit I: Introduction to Data Science (Data Mining, Visualization, Software Engineering trends) 
+
+Unit II: Database & Warehousing, AI & ANN basics, Statistics, Hypothesis techniques 
+
+Unit III: Computational techniques, Machine Learning, Big Data, Research Methodology 
+
+Unit IV: Applications, Future importance, Programming paradigms 
+
+Unit V: Data Mining vs. Data Science, Predictive Analytics, Exploratory Data Analysis 
+
+Unit VI: Optimization, Roles/Responsibilities, Data lifecycle, Hadoop Integration with R 
+
+
+Reference Books: Data Smart (Foreman), Fundamentals of mathematical statistics (Gupta/Kapoor), Database Design (C.J. Date), Data Mining (Dunham).
+
+Subject: Software Testing - Elective (Code: BCS-504A)
+Program: B.Sc. Computer Science (Third Year), VI Semester 
+
+
+Objectives: Develop testing execution skills, understand techniques, enhance QA skills.
+
+
+Outcomes: Learn development methods, apply testing techniques, evaluate costs, implement types of testing.
+
+Units:
+
+Unit I: Quality concepts (McCall’s/ISO 9126 factors, Cost of Quality, QA) 
+
+Unit II: Software Quality Assurance (Reviews, Reliability, QA Plan) 
+
+Unit III: Software Testing Strategies (Unit, Integration, Validation, System Testing, Debugging) 
+
+Unit IV: Testing Application (White/Black Box, Basic Path, Control Structural) 
+
+Unit V: WebApps for Testing (Content, UI, Navigation, Security) 
+
+Unit VI: Product Metrics (Requirements, Design, Source code, Testing metrics) 
+
+
+Reference Books: Software Engineering – A Practitioner's approach (Roger S. Pressman, 5th & 6th Editions), Software Testing Concepts and Tools (NageswaraRoo).

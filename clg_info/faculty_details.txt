@@ -1,0 +1,121 @@
+================================================================================
+YESHWANT MAHAVIDYALAYA NANDED - FACULTY INFORMATION
+(Extracted Live from https://ymnnanded.in/ + Department Pages & PDFs on 13 March 2026)
+================================================================================
+
+There is **NO single central faculty list** on the official website.  
+Faculty details are available **department-wise** (via HTML pages or individual profile PDFs).  
+
+Total faculty (from external academic portal): **77**  
+(1 Principal + 22 Professors + 6 Associate Professors + 40 Assistant Professors + others).
+
+Below is the **complete extracted list** from all available department pages.  
+I have included names, designations, and key details wherever mentioned.  
+Many faculty also have detailed individual profile PDFs (linked on department pages).
+
+================================================================================
+1. PRINCIPAL
+================================================================================
+• **Dr. Ganeshchandra Narharrao Shinde**  
+  Designation: Principal (Professor Grade)  
+  Qualifications: M.Sc., M.Phil., Ph.D.  
+  Email: shindegn@yahoo.co.in  
+  Specialisation: Electronics / Computer Science / Physics  
+  Experience: 36 years teaching + 18 years as Principal  
+  (Full bio already shared earlier — ex Pro-Vice Chancellor SRTM University)
+
+================================================================================
+2. DEPARTMENT OF ZOOLOGY (Full List)
+================================================================================
+• Dr. Sanjay Shamrao Nanware — Professor & Head  
+• Dr. H.L. Tamloorkar — Professor  
+• Dr. Mrs. M.S. Kadam — Professor  
+• Dr. Mrs. N.R. Jaiswal — Professor  
+• Dr. Dhanraj Balbhim Bhure — Professor  
+• Dr. B. Balaji Rao — Assistant Professor  
+• Mr. N.B. Gavhane — Assistant Professor  
+• Mr. S.D. Mane — Assistant Professor  
+• Dr. Ms. D.V. Totawar — Assistant Professor  
+
+Non-Teaching Staff:  
+Mr. R.B. Bhosle (Lab Assistant), Mr. S.D. Mirewad, Mr. J.R. Umarikar, Mr. P.U. Rathod (Lab Attendants)
+
+================================================================================
+3. DEPARTMENT OF PHYSICS (Full List)
+================================================================================
+• Dr. G.N. Shinde — Principal (M.Sc., M.Phil., Ph.D.) — 33 years experience  
+• Mr. G.S. Duthade — Head & Assistant Professor (M.Sc., B.Ed., M.Phil.) — 27 years  
+• Dr. P.R. Mirkute — Assistant Professor (M.Sc., Ph.D.) — 22 years  
+• Mr. S.M. Delmade — Assistant Professor (M.Sc., B.Ed., SET) — 2 years  
+• Dr. P.R. Chikate — Assistant Professor (M.Sc., M.Phil., Ph.D.) — 1 year  
+• Mr. A.R. Gurkhude — Assistant Professor (M.Sc., SET) — 2 years  
+• Dr. N.L. Ingle — Assistant Professor (M.Sc., M.Phil., SET, Ph.D.) — 4 years  
+
+================================================================================
+4. DEPARTMENT OF ENGLISH
+================================================================================
+Head: Dr. L.V. Padmarani Rao — Professor (full detailed profile PDF available: LVP_FacultyProfile.pdf — 29 pages, research guide, multiple projects)
+
+Other Faculty (from department page + profiles):
+• Dr. Ajay Rustumrao Tengse — Professor  
+• Dr. Kailash M. Ingole — Assistant Professor  
+• Mr. Madhav S. Dudhate — (recent addition)  
+• Dr. Chhaya Marotrao Gore  
+• Mr. Deshmukh Chaitanya Dadarao  
+• Mr. Sagrole Mashnaji Shesherao (CHB Lecturer)  
+• Mr. Puyed Madhav Bhujangrao (CHB)  
+• Dr. Kiran Panjabrao Deshmukh  
+• Many more CHB / Assistant Professors with individual PDFs (Artengse_Profile.pdf, CDDeshmukh_Profile.pdf, etc.)
+
+================================================================================
+5. DEPARTMENT OF MATHEMATICS & STATISTICS
+================================================================================
+• Dr. N.A. Pande — Professor & Head (Ph.D., specialisation: Number Theory & Analysis)  
+• Mr. Rajegore Avinash Diliprao — Assistant Professor (joined 2020)
+
+================================================================================
+6. DEPARTMENT OF CHEMISTRY
+================================================================================
+• Dr. M.A. Baseer — Professor  
+• Dr. S.P. Vartale — Professor  
+• Dr. S.B. Junne — Professor  
+• Dr. V.N. Bhosale — Associate Professor  
+
+================================================================================
+7. DEPARTMENT OF SOCIOLOGY
+================================================================================
+• Dr. B.M. Kamble — Professor & Head
+
+================================================================================
+8. DEPARTMENT OF PUBLIC ADMINISTRATION
+================================================================================
+• Prof. Dr. M.V. Phad — Head (Professor, from July 2022)  
+• Lt. Dr. R.P. Gawande — Professor (NCC Officer)
+
+================================================================================
+9. LIBRARY
+================================================================================
+• Dr. K.N. Wadje — Librarian (Associate Professor Grade, since 1969)
+
+================================================================================
+10. OTHER DEPARTMENTS (Partial / Individual Profiles Available)
+================================================================================
+• Microbiology: Mr. Bongane Ruturaj Purbhaji (Assistant Professor)  
+• Dairy Science: Mr. Babasaheb Diliprao Landge (Assistant Professor)  
+• Commerce & Management: Ms. Shisodiya Priyanka Prataprao (Assistant Professor) + full table on commerce_fprofile.html (empty in some views but PDFs exist)  
+• Electronics, Marathi, Economics, etc.: Individual CHB / Assistant Professors with PDFs
+
+================================================================================
+HOW TO GET COMPLETE FACULTY DETAILS
+================================================================================
+1. Visit department pages (pattern: https://ymnnanded.in/Dep_[Subject].html or dep_[Subject].html)  
+2. Download individual faculty profile PDFs (search “fprofile” or “_Profile.pdf” on site)  
+3. English, Zoology, Physics & Mathematics have the most detailed public lists.
+
+**Recommendation for your Chatbot**:  
+Upload all “dep_*.html” pages + all “*_fprofile.pdf” files.  
+The bot will then answer “Who is the HOD of Zoology?” or “Faculty in Physics” instantly with exact names.
+
+Save this file as ymn_faculty_list_2026.txt  
+
+Need detailed profile of any specific faculty (e.g., Dr. L.V. Padmarani Rao full 29-page bio) or a particular department expanded? Just tell me the name/department!

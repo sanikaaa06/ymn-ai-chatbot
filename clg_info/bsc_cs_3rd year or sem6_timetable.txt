@@ -1,0 +1,70 @@
+
+B.Sc Computer Science (BCS) – Third Year
+Semester: 6th Semester
+Hall No: 26
+Academic Year: 2025–2026
+Department of Computer Science
+Yeshwant Mahavidyalaya, Nanded
+
+This timetable shows the subject code and faculty short name for each lecture.
+
+Monday
+12:30 - 1:30 | Mobile Application Development Prac. (BCS-607) — BAT-A (AKB)
+
+1:30 - 2:30 | Software Process Management (BCS-604) — Mr. Sushil S. Mahendrakar (SSM)
+
+2:30 - 3:30 | Computer Networking Essentials (BCS-605) — Dr. P.B. Pathak (PBP)
+
+Tuesday
+12:30 - 1:30 | Mobile Application Development Prac. (BCS-607) — BAT-B (AKB)
+
+1:30 - 2:30 | Software Process Management (BCS-604) — Mr. Sushil S. Mahendrakar (SSM)
+
+2:30 - 3:30 | Computer Networking Essentials (BCS-605) — Dr. P.B. Pathak (PBP)
+
+Wednesday
+11:30 - 12:30 | Image Processing Practical (BCS-606) — BAT-A (GBC)
+
+12:30 - 1:30 | Mobile Application Development (BCS-601) — Miss A.S. Khan (ASK)
+
+1:30 - 2:30 | Fundamentals of Image Processing (BCS-602) — Mr. G.B. Chounste (GBC)
+
+2:30 - 3:30 | Software Process Management (BCS-604) — Mr. Sushil S. Mahendrakar (SSM)
+
+Thursday
+11:30 - 12:30 | Image Processing Practical (BCS-606) — BAT-B (SMS)
+
+12:30 - 1:30 | Mobile Application Development (BCS-601) — Miss A.S. Khan (ASK)
+
+1:30 - 2:30 | Fundamentals of Image Processing (BCS-602) — Mr. G.B. Chounste (GBC)
+
+2:30 - 3:30 | Software Process Management (BCS-604) — Mr. Sushil S. Mahendrakar (SSM)
+
+Friday
+11:30 - 12:30 | Project Development Activity (BCS-603) — BAT-A (PBP)
+
+12:30 - 1:30 | Mobile Application Development (BCS-601) — Miss A.S. Khan (ASK)
+
+1:30 - 2:30 | Fundamentals of Image Processing (BCS-602) — Mr. G.B. Chounste (GBC)
+
+2:30 - 3:30 | Computer Networking Essentials (BCS-605) — Dr. P.B. Pathak (PBP)
+
+Saturday
+11:30 - 12:30 | Project Development Activity (BCS-603) — BAT-B (PBP)
+
+12:30 - 1:30 | Mobile Application Development (BCS-601) — Miss A.S. Khan (ASK)
+
+1:30 - 2:30 | Fundamentals of Image Processing (BCS-602) — Mr. G.B. Chounste (GBC)
+
+2:30 - 3:30 | Computer Networking Essentials (BCS-605) — Dr. P.B. Pathak (PBP)
+
+Location Reference: All lectures take place in Hall No: 26.
+
+Subject Code Reference
+BCS-601 – Mobile Application Development (ASK)
+BCS-602 – Fundamentals of Image Processing (GBC)
+BCS-604 – Software Process Management (SSM)
+BCS-605 – Computer Networking Essentials (PBP)
+BCSTY-603 – Project Development Activity Practical (PBP)
+BCSTY-606 – Image Processing Practical (GBC / SMS)
+BCSTY-607 – Mobile Application Development Practical (AKB)

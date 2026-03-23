@@ -1,0 +1,21 @@
+# ============================
+# YMN AI CHATBOT - .gitignore
+# ============================
+
+# SECRET CONFIG FILE — Contains API keys and admin credentials
+# This MUST be excluded from public repositories
+config/default_config.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code settings (optional)
+.vscode/
+
+# Node modules (if any future dependency is added)
+node_modules/
+
+# Logs
+*.log

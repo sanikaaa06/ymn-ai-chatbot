@@ -1,0 +1,13 @@
+{
+    "_README": "=== YMN AI CHATBOT — CONFIG TEMPLATE ===",
+    "_NOTE_1": "Copy this file as 'default_config.json' in the same folder and fill in your details.",
+    "_NOTE_2": "The actual 'default_config.json' is excluded from Git via .gitignore for security.",
+    "_NOTE_3": "admin_password_reference is for YOUR reference only — the app uses admin_hash for verification.",
+
+    "admin_password_reference": "YOUR_PASSWORD_HERE",
+    "admin_hash": "GENERATE_SHA256_HASH_OF_YOUR_PASSWORD",
+
+    "groq_api_key": "YOUR_GROQ_API_KEY_HERE",
+    "groq_model_id": "llama-3.3-70b-versatile",
+    "college_website_url": "https://ymnnanded.in/"
+}
