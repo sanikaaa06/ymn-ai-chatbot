@@ -4,7 +4,7 @@
 
 # SECRET CONFIG FILE — Contains API keys and admin credentials
 # This MUST be excluded from public repositories
-config/default_config.json
+# config/default_config.json
 
 # OS generated files
 .DS_Store
