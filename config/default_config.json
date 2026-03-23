@@ -1,0 +1,14 @@
+{
+    "_README": "=== YMN AI CHATBOT — DEFAULT CONFIGURATION (SECRET FILE) ===",
+    "_NOTE_1": "This file contains default settings that are auto-loaded when the app starts.",
+    "_NOTE_2": "The admin_password field is for YOUR REFERENCE ONLY — the app uses admin_hash for login verification.",
+    "_NOTE_3": "Users still MUST enter the password to access the admin panel. This file does NOT bypass login.",
+    "_WARNING": "⚠️ Keep this file PRIVATE. Do NOT share this file publicly or commit it to a public GitHub repo.",
+
+    "admin_password_reference": "32admin#62",
+    "admin_hash": "aff64f01a5484076e06d72c255498dd7da423b8c7485b4e113e11e31700975cf",
+
+    "groq_api_key": "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",
+    "groq_model_id": "llama-3.3-70b-versatile",
+    "college_website_url": "https://ymnnanded.in/"
+}
