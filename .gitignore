@@ -3,7 +3,7 @@
 # ============================
 
 # SECRET CONFIG FILE — Contains API keys and admin credentials
-# This MUST be excluded from public repositories
+# This MUST be excluded from public repositories so commented for now to avoid accidental commits. Uncomment if you want to use it locally.
 # config/default_config.json
 
 # OS generated files

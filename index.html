@@ -762,7 +762,7 @@
         // --- ADMIN PASSWORD HASH ---
         // This hash is loaded from config/default_config.json at startup.
         // Fallback hash is for '' — but the secret file should override it.
-        let ADMIN_HASH = "aff64f01a5484076e06d72c255498dd7da423b8c7485b4e113e11e31700975cf";
+        let ADMIN_HASH = "";
 
         // --- DEFAULT CONFIG FROM SECRET FILE ---
         // These hold defaults loaded from config/default_config.json
@@ -1693,24 +1693,24 @@ SUGGESTIONS: ["Question 1", "Question 2", "Question 3"]`}
         }
 
         // Seed IndexedDB with defaults from the secret config file
-        // Only writes if the key does NOT already exist in IndexedDB (admin overrides take priority)
+        // ALWAYS overwrites API key from config file so that if the key is updated on the server,
+        // all users get the new key on next page load. Admin panel overrides are temporary per-session.
         async function seedDefaultsFromConfig() {
             try {
-                // Seed Groq API Key (only if not already saved by admin)
-                const existingKey = await dbOp.get('config', 'groqKey');
-                if ((!existingKey || !existingKey.value) && DEFAULT_CONFIG.groq_api_key) {
+                // ALWAYS overwrite Groq API Key from config file (ensures fresh key on every load)
+                if (DEFAULT_CONFIG.groq_api_key) {
                     await dbOp.put('config', { key: 'groqKey', value: DEFAULT_CONFIG.groq_api_key });
-                    console.log("Seeded Groq API key from default config.");
+                    console.log("Groq API key loaded from default config.");
                 }
 
-                // Seed Model ID
+                // Seed Model ID (only if not already set)
                 const existingModel = await dbOp.get('config', 'modelId');
                 if ((!existingModel || !existingModel.value) && DEFAULT_CONFIG.groq_model_id) {
                     await dbOp.put('config', { key: 'modelId', value: DEFAULT_CONFIG.groq_model_id });
                     console.log("Seeded Model ID from default config.");
                 }
 
-                // Seed Website URL
+                // Seed Website URL (only if not already set)
                 const existingUrl = await dbOp.get('config', 'websiteUrl');
                 if ((!existingUrl || !existingUrl.value) && DEFAULT_CONFIG.college_website_url) {
                     await dbOp.put('config', { key: 'websiteUrl', value: DEFAULT_CONFIG.college_website_url });
